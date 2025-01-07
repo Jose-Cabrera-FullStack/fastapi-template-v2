@@ -1,5 +1,5 @@
 anyio==3.7.0
-dnspython==2.2.1
+dnspython==2.7.0
 eventlet==0.33.2
 exceptiongroup==1.1.1
 fastapi==0.89.1
